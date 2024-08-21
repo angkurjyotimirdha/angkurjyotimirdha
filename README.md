@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angkurjyotimirdha
-- 👀 I’m interested in SOFTWARE DEVELOPING and WEB DEVELOPING.
-- 🌱 I’m currently learning PYTHON.
+- 👀 I’m interested in SOFTWARE DEVELOPING.
+- 🌱 I’m currently learning JAVA.
 - 📫 Email: mirdhaangkurjyoti@gmail.com/ Instagram ID: angkurjyoti_mirdha
 
 <!---
